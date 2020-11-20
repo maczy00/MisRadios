@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF: tvg-name="CUMBIA"
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/cumbia/
+https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+
+#EXTINF: tvg-name="MITRE AM 970"
+#EXTVLCOPT:http-referrer=http://radiomitre.cienradios.com/player/mitre_am790/
+http://buecrplb01.cienradios.com.ar/Mitre790.aac
+
+#EXTINF: tvg-name="LA 100"
+#EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
+https://buecrplb01.cienradios.com.ar/la100.aac
+
+#EXTINF: tvg-name="TOP 40"
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/top_40/
+https://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+
+#EXTINF: tvg-name="HOT 100 LATINO"
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/hot_100_latino/
+https://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
