@@ -1,3 +1,3 @@
 # EXTM3U
-#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", CUMBIA http-referrer=https://ar.cienradios.com/player/cumbia/ 
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" http-referrer=https://ar.cienradios.com/player/cumbia/ group-title = "Group1", CUMBIA
 https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
