@@ -1,21 +1,16 @@
 # EXTM3U
-
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", CUMBIA
 #EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/cumbia/
 https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
-
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", MITRE AM 970
 #EXTVLCOPT:http-referrer=http://radiomitre.cienradios.com/player/mitre_am790/
 http://buecrplb01.cienradios.com.ar/Mitre790.aac
-
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", LA 100
 #EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
 https://buecrplb01.cienradios.com.ar/la100.aac
-
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", TOP 40
 #EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/top_40/
 https://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
-
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", HOT 100 LATINO
 #EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/hot_100_latino/
 https://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
