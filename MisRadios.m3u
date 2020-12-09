@@ -29,3 +29,6 @@ https://stream.zeno.fm/zdb2fxnnvtzuv.aac
 
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", AM 710 Radio 10"
 https://s6.stweb.tv/radio10/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", Radio City - Corrientes"
+http://turadioenvivo.com:11039/stream
