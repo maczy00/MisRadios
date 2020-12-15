@@ -36,3 +36,7 @@ http://turadioenvivo.com:11039/stream
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", 80/90 Internacional
 #EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/80_90_Internacional/
 https://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", 90 Nacional
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/90_Nacional/
+https://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
