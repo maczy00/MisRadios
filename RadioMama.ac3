@@ -1,0 +1,45 @@
+# EXTM3U
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", CUMBIA
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/cumbia/
+https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", MITRE AM 970
+#EXTVLCOPT:http-referrer=http://radiomitre.cienradios.com/player/mitre_am790/
+http://buecrplb01.cienradios.com.ar/Mitre790.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", LA 100
+#EXTVLCOPT:http-referrer=https://la100.cienradios.com/hd/
+https://buecrplb01.cienradios.com.ar/la100.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", TOP 40
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/top_40/
+https://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", HOT 100 LATINO
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/hot_100_latino/
+https://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", ASPEN 102.3"
+#EXTVLCOPT:http-referrer=https://fmaspen.com/
+https://17803.live.streamtheworld.com/ASPENAAC.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", Feeling FM 91.9"
+https://stream.zeno.fm/zdb2fxnnvtzuv.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", AM 710 Radio 10"
+https://s6.stweb.tv/radio10/live/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", Radio City - Corrientes"
+http://turadioenvivo.com:11039/stream
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", 80/90 Internacional
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/80_90_Internacional/
+https://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", 90 Nacional
+#EXTVLCOPT:http-referrer=https://ar.cienradios.com/player/90_Nacional/
+https://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", FM Pasion - Corrientes
+http://centova1.veemesoft.com.ar:8008/live
