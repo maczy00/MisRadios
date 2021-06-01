@@ -44,3 +44,6 @@ https://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
 #EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", FM Pasion - Corrientes
 http://centova1.veemesoft.com.ar:8008/live
 
+#EXTINF: -1 tvg-logo = "https://www.server.com/logo1.jpg" group-title = "Group1", Radio Latina 101.1
+http://streaming.latina101.com.ar:8080/RadioLatina
+
